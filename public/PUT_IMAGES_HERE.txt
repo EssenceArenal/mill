@@ -1,0 +1,23 @@
+PUT YOUR PHOTOS HERE
+====================
+
+Supported formats: .jpg .jpeg .png
+
+Suggested file names:
+  seaview.jpg            — panoramic sea view
+  mill_exterior.jpg      — full windmill exterior
+  mill_exterior_2.jpg    — another angle
+  dome_interior.jpg      — geodesic dome from inside
+  dome_exterior.jpg      — dome from outside
+  spiral_staircase.jpg   — granite spiral staircase
+  ground_floor.jpg       — ground floor room interior
+  upper_floor.jpg        — upper floor / dome room
+  land_wide.jpg          — 3,000 m² land wide shot
+  land_garden.jpg        — garden / organic area
+  surroundings.jpg       — nature / landscape
+  sunrise.jpg            — sunrise over Algarve
+  sunset.jpg             — sunset view
+  tavira_nearby.jpg      — nearby town / beaches
+
+The more images you add, the more variety across the 10 videos.
+Aim for at least 8-10 different photos.
